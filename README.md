@@ -6,5 +6,5 @@
 
 Connect with me on:
 
-[🏢 LinkedIn] (https://www.linkedin.com/in/oliverrobinjackson/)
+🏢 [LinkedIn](https://www.linkedin.com/in/oliverrobinjackson/)
 
