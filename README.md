@@ -1,10 +1,10 @@
 # Hi there. I'm Oliver 👋
 
-👨‍💻 A software engineer with a background in computer science and philosophy
+👨‍💻 Software engineer
 
-💼 Working at Starling Bank on the back end in Java
+💼 Starling Bank
 
-Connect with me on:
+Connect with me:
 
 🏢 [LinkedIn](https://www.linkedin.com/in/oliverrobinjackson/)
 
