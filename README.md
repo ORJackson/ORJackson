@@ -4,7 +4,7 @@
 
 💼 Starling Bank
 
-Connect with me:
+🏢 Connect with me:
 
-🏢 [LinkedIn](https://www.linkedin.com/in/oliverrobinjackson/)
+[LinkedIn](https://www.linkedin.com/in/oliverrobinjackson/)
 
